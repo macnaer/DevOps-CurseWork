@@ -1,3 +1,6 @@
-/ToolBox/Terraform/aws/ec2/.terraform/providers/registry.terraform.io/hashicorp/aws/3.37.0/windows_amd64
-/ToolBox/Terraform/aws/ec2/.terraform.lock.hcl
-/ToolBox/Terraform/aws/ec2/terraform.tfstate.backup
+/node_modules
+/package-lock.json
+/frontend/node_modules
+/frontend/package-lock.json
+/backend/secret.js
+/backend/config/config.env
